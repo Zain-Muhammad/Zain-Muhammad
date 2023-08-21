@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zain Muhammad !</h1>
 <h3 align="center">A passionate Pixel Perfect Front-End Developer from Pakistan .</h3>
 
-- 🔭 I’m currently working on [oladoc.com](https://oladoc.com/)
+- 🔭 I’m currently working on [oladoc.com](https://oladoc.com/) as a Senior Frontend Developer
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Cypress** **UI/UX Designing**
 
 - 📝 I regularly write articles on [https://dev.to/zainmuhammad](https://dev.to/zainmuhammad)
 
