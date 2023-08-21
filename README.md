@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [oladoc.com](https://oladoc.com/) as a Senior Frontend Developer
 
-- 🌱 I’m currently learning **Cypress** **UI/UX Designing**
+- 🌱 I’m currently learning **UI/UX Designing** and **Cypress** 
 
 - 📝 I regularly write articles on [https://dev.to/zainmuhammad](https://dev.to/zainmuhammad)
 
