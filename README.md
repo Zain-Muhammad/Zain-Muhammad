@@ -3,11 +3,11 @@
 
 - 🔭 Senior Frontend Developer at [oladoc.com](https://oladoc.com/) | Performance-Driven UX/UI Developer & Designer | Crafting Success in Every Pixel | Developing High-Speed, High-Impact Web Apps
 
-- 🌱 I’m currently learning **UI/UX Designing** and **Cypress** 
-
 - 📝 I regularly write articles on [https://dev.to/zainmuhammad](https://dev.to/zainmuhammad)
+  
+- 📝 I regularly posts UI elements on open source community Uiverse | The universe of UI  [uiverse.io](https://uiverse.io/profile/Zain-Muhammad)
 
-- 💬 Ask me about **HTML5,CSS3,Javascript,Cypress,Google Core Web Vitals**
+- 💬 Ask me about **HTML5,CSS3,Javascript,UX/UI Design,Cypress,Google Core Web Vitals**
 
 - 📫 How to reach me **zainsher5@gmail.com**
 
