@@ -5,11 +5,11 @@
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/zainmuhammad)
   
-- 📝 I regularly posts UI elements on open source community Uiverse | The universe of UI  [uiverse.io](https://uiverse.io/profile/Zain-Muhammad)
+- 📬 I regularly posts UI elements on open source community Uiverse | The universe of UI  [uiverse.io](https://uiverse.io/profile/Zain-Muhammad)
 
 - 💬 Ask me about **HTML5,CSS3,Javascript,UX/UI Design,Cypress,Google Core Web Vitals**
 
-- 📫 How to reach me **zainsher5@gmail.com**
+- 📩 How to reach me **zainsher5@gmail.com**
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/zain-sher)
 
