@@ -3,7 +3,7 @@
 
 - 🔭 Senior Frontend Developer at [oladoc.com](https://oladoc.com/) | Performance-Driven UX/UI Developer & Designer | Crafting Success in Every Pixel | Developing High-Speed, High-Impact Web Apps
 
-- 📝 I regularly write articles on [https://dev.to/zainmuhammad](https://dev.to/zainmuhammad)
+- 📝 I regularly write articles on [dev.to](https://dev.to/zainmuhammad)
   
 - 📝 I regularly posts UI elements on open source community Uiverse | The universe of UI  [uiverse.io](https://uiverse.io/profile/Zain-Muhammad)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zainsher5@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/zain-sher](https://www.linkedin.com/in/zain-sher)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/zain-sher)
 
 - ⚡ Fun fact **I think I am Funny**
 
